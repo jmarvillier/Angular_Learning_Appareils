@@ -1,1 +1,2 @@
-# Angular_Learning_Appareils
+# angular-learning
+Learn Angular concepts
